@@ -1,6 +1,5 @@
 const mongoose = require("mongoose");
 
-const mongourl = "mongodb+srv://dhruvgrover533:Deepak3168@cluster0.wkpl4.mongodb.net/foodDB";
 
 const mongodb = async () => {
     try {
